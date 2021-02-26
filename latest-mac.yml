@@ -1,0 +1,12 @@
+version: 0.1.1
+files:
+  - url: EBtools-0.1.1-mac.zip
+    sha512: fEAyh6jed8MjVgyysFACRZnwjJeQ9NjYOxDVCZrzxHbTUlaxNb+RuGCcXhlUlXw/K60plOGsGExJI8TMRSgNmw==
+    size: 50403184
+    blockMapSize: 54145
+  - url: EBtools-0.1.1.dmg
+    sha512: NSLN8L8zr8lj0ShwB/fBEhvIjIltPahKY5iWH8B7QrdLK422zQJL8UjHdFk1mgefHGhaecQ9Ce8b/PSIeAm39A==
+    size: 52488198
+path: EBtools-0.1.1-mac.zip
+sha512: fEAyh6jed8MjVgyysFACRZnwjJeQ9NjYOxDVCZrzxHbTUlaxNb+RuGCcXhlUlXw/K60plOGsGExJI8TMRSgNmw==
+releaseDate: '2021-02-26T08:29:46.580Z'
